@@ -279,11 +279,11 @@ Essa estratégia garante uma comparação justa entre diferentes representaçõe
 
 O projeto resulta em:
 
-- diferentes conjuntos de atributos bioinformáticos;
-- modelos de regressão treinados;
-- comparação entre descritores;
-- ranking dos algoritmos;
-- artigo científico descrevendo toda a metodologia.
+- Diferentes conjuntos de atributos bioinformáticos;
+- Modelos de regressão treinados;
+- Comparação entre descritores;
+- Ranking dos algoritmos;
+- [Artigo científico descrevendo toda a metodologia.](./docs/Artigo.pdf)
 
 ---
 
