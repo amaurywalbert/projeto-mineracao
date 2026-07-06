@@ -289,7 +289,7 @@ O projeto resulta em:
 
 # Autor
 
-**Amaury Walbert**
+**Amaury Walbert de Carvalho**
 
 
 Doutorando em Ciência da Computação — Universidade Federal de Uberlândia (UFU)
